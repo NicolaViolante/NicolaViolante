@@ -1,6 +1,12 @@
 # Nicola Violante
 
-### Computer Engineering | Software Development | Big Data & Distributed Systems
+### Computer Engineering
+
+Computer Engineering MSc student at the University of Rome Tor Vergata, passionate about distributed systems, large-scale data processing, systems programming, and cybersecurity.
+
+I enjoy designing scalable data architectures, engineering real-time streaming pipelines, and optimizing distributed computing workloads.
+
+My interests span the entire data engineering lifecycle, from ingestion and ETL orchestration to batch and stream processing, distributed storage, and real-time analytics.
 
 ---
 
